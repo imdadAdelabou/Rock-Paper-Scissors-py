@@ -51,6 +51,7 @@ def check_winner(user, ia):
 def game_loop():
     valid_cmd = {"P": "Paper", "R": "Rock", "S": "Scissors"}
     print("Welcome to Rock-Paper-Scissors game !!!!\n")
+    print("RULES :\n R ==> Rock\n P ==> Paper\n S ==> Scissors\n")
     while True:
         print("Hey user, choose between \"R\" \"P\" \"S\" ")
         user_choice = input()
