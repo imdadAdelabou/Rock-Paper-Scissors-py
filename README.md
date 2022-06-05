@@ -24,7 +24,7 @@ For more understanding check this : https://www.youtube.com/watch?v=ND4fd6yScBM/
 <li>Python</li>
 </ul> 
 
-# ✅ How to lauch it
+# ✅ How to launch it
 <ul>
 <li>Launch `python main.py` on commande line</li>
 </ul>
