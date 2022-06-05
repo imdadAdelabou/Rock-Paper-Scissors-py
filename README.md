@@ -24,6 +24,10 @@ For more understanding check this : https://www.youtube.com/watch?v=ND4fd6yScBM/
 <li>Python</li>
 </ul> 
 
+# ✅ How to lauch it
+<ul>
+<li>Launch `python main.py` on commande line</li>
+</ul>
 
 # 😇 Author
  [![Twitter Follow](https://img.shields.io/twitter/follow/imdad_tech?style=social)](https://twitter.com/imdad_tech)
